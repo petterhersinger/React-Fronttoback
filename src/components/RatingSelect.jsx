@@ -1,4 +1,4 @@
-import React from "React"
+import React from "react"
 function RatingSelect({ select, selected }) {
 
 const handleChange = (e) => {
